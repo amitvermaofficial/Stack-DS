@@ -1,7 +1,6 @@
 public class Example {
     public static void main(String[] args) {
-        StringBuilder sb = new StringBuilder("");
-        
+        System.out.println(args[0]+args[1]);
     }
     
 }
